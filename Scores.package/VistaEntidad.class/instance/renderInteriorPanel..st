@@ -1,3 +1,5 @@
 rendering
 renderInteriorPanel: html
-	^ self subclassResponsibility 
+	self renderTituloPanel: html.
+	html break.
+	self renderCuerpoPanel: html

@@ -5,5 +5,5 @@ renderObra: unaObra en: html
 		[ 
 			self columna: html texto: unaObra nombreFormal greaseString.
 			self columna: html texto: unaObra alias greaseString.
-			self columnaConBotonPDF: html. 
+			self columna: html boton: [ self botonDescargarPDFSmall: html ]. 
 		]
