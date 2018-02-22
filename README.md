@@ -1,0 +1,2 @@
+# Scores
+Proyecto en SmallTalk
