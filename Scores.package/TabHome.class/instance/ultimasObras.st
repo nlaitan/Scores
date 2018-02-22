@@ -1,4 +1,4 @@
 rendering
 ultimasObras
-	"Modificar para seleccionar solo las ultimas obras"
-	^ self obras
+	"Solo elijo las ultimas 2 para probar que funciona, en realidad deben ser 5"
+	^ self obras last: 2.
