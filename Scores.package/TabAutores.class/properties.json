@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Tab",
+	"category" : "Scores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TabAutores",
+	"type" : "normal"
+}

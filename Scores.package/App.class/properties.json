@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "NicolasLaitan 2/16/2018 12:53",
+	"super" : "WAComponent",
+	"category" : "Scores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"baseDeDatos",
+		"tabAutores",
+		"tabInterpretes",
+		"tabObras",
+		"tabHome"
+	],
+	"name" : "App",
+	"type" : "normal"
+}

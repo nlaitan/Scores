@@ -1,0 +1,3 @@
+Others
+isAutor
+	^ true

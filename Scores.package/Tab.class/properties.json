@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "NicolasLaitan 2/20/2018 20:47",
+	"super" : "WAComponent",
+	"category" : "Scores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"app",
+		"vistaObra",
+		"vistaAutor",
+		"vistaInterprete",
+		"plural",
+		"singular"
+	],
+	"name" : "Tab",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NicolasLaitan 2/16/2018 01:36",
+	"super" : "VistaEntidad",
+	"category" : "Scores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"interprete"
+	],
+	"name" : "VistaInterprete",
+	"type" : "normal"
+}

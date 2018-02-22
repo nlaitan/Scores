@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "NicolasLaitan 2/16/2018 11:33",
+	"super" : "Object",
+	"category" : "Scores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"obras",
+		"autores",
+		"interpretes"
+	],
+	"name" : "BaseDeDatos",
+	"type" : "normal"
+}

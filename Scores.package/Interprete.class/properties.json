@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Scores",
+	"classinstvars" : [
+		"videos"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"apellido",
+		"nombre",
+		"obras"
+	],
+	"name" : "Interprete",
+	"type" : "normal"
+}

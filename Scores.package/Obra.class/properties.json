@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Scores",
+	"classinstvars" : [
+		"interpretes"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"interpretes",
+		"nombreFormal",
+		"alias",
+		"autor"
+	],
+	"name" : "Obra",
+	"type" : "normal"
+}
