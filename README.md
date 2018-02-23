@@ -1,3 +1,3 @@
 # Scores
-Repositorio de partituras
+Repositorio de partituras.
 Desarrollado en SmallTalk, Entorno Pharo
