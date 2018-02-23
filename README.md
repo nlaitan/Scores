@@ -1,2 +1,3 @@
 # Scores
-Proyecto en SmallTalk
+Repositorio de partituras
+Desarrollado en SmallTalk, Entorno Pharo
