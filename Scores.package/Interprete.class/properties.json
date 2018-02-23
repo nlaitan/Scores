@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "NicolasLaitan 2/23/2018 04:08",
 	"super" : "Object",
 	"category" : "Scores",
 	"classinstvars" : [
@@ -10,7 +10,7 @@
 	"instvars" : [
 		"apellido",
 		"nombre",
-		"obras"
+		"interpretaciones"
 	],
 	"name" : "Interprete",
 	"type" : "normal"

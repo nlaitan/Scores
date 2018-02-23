@@ -7,5 +7,5 @@ renderContentOn: html
 		[ 
 			self encabezado: html.
 			html break.
-			self renderListaDeUltimasObras: html 
+			self renderListaDePaneles: html 
 		]

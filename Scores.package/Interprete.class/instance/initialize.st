@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	obras := OrderedCollection new.
+	interpretaciones := OrderedCollection new.

@@ -1,4 +1,4 @@
-as yet unclassified
+construction
 Nombre: nombre Apellido: apellido
 | unInterprete |
 unInterprete := self new.

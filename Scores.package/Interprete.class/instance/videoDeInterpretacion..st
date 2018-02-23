@@ -1,3 +1,3 @@
 Operations
 videoDeInterpretacion: unaObra
-	^ self obras detect: unaObra
+	^ self interpretaciones detect: unaObra

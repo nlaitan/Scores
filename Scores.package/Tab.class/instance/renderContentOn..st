@@ -1,3 +1,11 @@
 rendering
 renderContentOn: html
-	^ self subclassResponsibility 
+	html tbsTabPane
+		class: 'fade';
+		id: self plural asLowercase;
+		with: 
+		[ 
+			self encabezado: html.
+			html break.
+			self renderListaDePaneles: html 
+		]

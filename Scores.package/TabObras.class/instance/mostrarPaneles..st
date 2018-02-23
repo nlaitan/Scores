@@ -1,5 +1,5 @@
 rendering
-mostrarObras: html
+mostrarPaneles: html
 	self obras do:
 	[
 		:obra | 

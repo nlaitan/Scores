@@ -1,9 +1,9 @@
 rendering
-renderObra: unaObra en: html
+renderObra: interpretacion en: html
 	html tableRow: 
 		[
 			self columna: html boton: [self botonPlay: html]. 
-			self columna: html texto: unaObra nombreFormal.
-			self columna: html texto: unaObra alias.
+			self columna: html texto: interpretacion obra nombreFormal.
+			self columna: html texto: interpretacion obra alias.
 			self columna: html boton: [self botonDescargarPDFSmall: html]. 
 		]

@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	interpretes := Set new.
+	obras := OrderedCollection new.

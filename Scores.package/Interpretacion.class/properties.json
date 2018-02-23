@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "NicolasLaitan 2/20/2018 13:05",
-	"super" : "Interprete",
+	"commentStamp" : "NicolasLaitan 2/22/2018 18:20",
+	"super" : "Object",
 	"category" : "Scores",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"obras"
+		"video",
+		"obra"
 	],
-	"name" : "Autor",
+	"name" : "Interpretacion",
 	"type" : "normal"
 }
