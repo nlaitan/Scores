@@ -1,9 +1,9 @@
 initialization
 inicializarTabs
-	self tabHome: TabHome new.
-	self tabAutores: TabAutores new.
-	self tabInterpretes: TabInterpretes new.
-	self tabObras: TabObras new.
+	self tabHome: PestañaHome new.
+	self tabAutores: PestañaAutores new.
+	self tabInterpretes: PestañaInterpretes new.
+	self tabObras: PestañaObras new.
 	self tabHome app: self.
 	self tabAutores app: self.
 	self tabInterpretes app: self.

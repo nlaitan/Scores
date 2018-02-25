@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Tab",
+	"super" : "Pestaña",
 	"category" : "Scores",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "TabInterpretes",
+	"name" : "PestañaObras",
 	"type" : "normal"
 }

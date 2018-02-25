@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "",
-	"super" : "Tab",
+	"commentStamp" : "NicolasLaitan 2/23/2018 05:11",
+	"super" : "Pestaña",
 	"category" : "Scores",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "TabHome",
+	"name" : "PestañaHome",
 	"type" : "normal"
 }
