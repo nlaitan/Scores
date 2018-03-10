@@ -1,0 +1,3 @@
+operations
+activarPestaña
+	^ self subclassResponsibility 

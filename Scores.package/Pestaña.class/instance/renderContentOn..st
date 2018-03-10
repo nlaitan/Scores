@@ -1,7 +1,7 @@
 rendering
 renderContentOn: html
 	html tbsTabPane
-		class: 'fade';
+		class: self clasePestaña;
 		id: self plural asLowercase;
 		with: 
 		[ 

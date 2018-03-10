@@ -1,7 +1,7 @@
 rendering
 renderContentOn: html
-	html tbsTabPane beActive; 
-		class: 'fade in active';
+	html tbsTabPane 
+		class: self clasePestaña;
 		id: 'home';
 		with: 
 		[ 

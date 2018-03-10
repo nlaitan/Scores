@@ -1,7 +1,7 @@
 menu
 itemTabHome: html
 	html tbsNavItem
-		beActive;
+		"class: self claseMenuTab;"
 		with: [ html anchor
 				attributeAt: 'data-toggle' put: 'tab';
 				url: '#home';

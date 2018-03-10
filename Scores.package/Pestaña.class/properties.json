@@ -10,7 +10,8 @@
 		"vistaEntidad",
 		"plural",
 		"singular",
-		"entidadesBuscadas"
+		"entidadesBuscadas",
+		"clasePestaña"
 	],
 	"name" : "Pestaña",
 	"type" : "normal"
