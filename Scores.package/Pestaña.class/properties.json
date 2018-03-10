@@ -7,11 +7,10 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"app",
-		"vistaObra",
-		"vistaAutor",
-		"vistaInterprete",
+		"vistaEntidad",
 		"plural",
-		"singular"
+		"singular",
+		"entidadesBuscadas"
 	],
 	"name" : "Pestaña",
 	"type" : "normal"

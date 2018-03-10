@@ -1,0 +1,3 @@
+accessing
+todasLasEntidades
+	^ self interpretes

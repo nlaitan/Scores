@@ -1,6 +1,6 @@
 initialization
 initialize
 	super initialize.
-	self vistaAutor: VistaAutor new.
+	self vistaEntidad: VistaAutor new.
 	self plural: 'Autores'.
 	self singular: 'Autor'

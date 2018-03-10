@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	self autor: Autor new.
+	self entidad: Autor new.

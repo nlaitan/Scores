@@ -1,4 +1,4 @@
-elementos html
+busqueda
 busqueda: html
 	html tbsColumn
 		extraSmallSize: 6;

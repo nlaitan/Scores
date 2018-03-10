@@ -1,3 +1,0 @@
-accessing
-vistaObra
-	^ vistaObra 

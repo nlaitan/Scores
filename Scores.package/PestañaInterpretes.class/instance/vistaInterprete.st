@@ -1,3 +1,0 @@
-accessing
-vistaInterprete
-	^ vistaInterprete 

@@ -1,3 +1,6 @@
-elementos html
+busqueda
 botonBusqueda: html
-	html tbsButton beSubmit with: [ html tbsGlyphIcon iconSearch ]
+	html tbsButton 
+		"tbsFormControl;"
+		beSubmit;
+		with: [ html tbsGlyphIcon iconSearch ]

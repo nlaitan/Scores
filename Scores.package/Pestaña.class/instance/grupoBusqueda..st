@@ -1,10 +1,14 @@
-elementos html
+busqueda
 grupoBusqueda: html
-	html tbsInputGroup: 
-	[ 
-		self inputBusqueda: html.
-		html tbsInputGroupButton: 
-		[ 
-			self botonBusqueda: html 
-		] 
+	html tbsForm:
+	[
+		html tbsInputGroup
+		with: 
+		[
+			self inputBusqueda: html.
+			html tbsInputGroupButton: 
+			[ 
+				self botonBusqueda: html 
+			] 
+		]
 	]

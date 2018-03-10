@@ -1,3 +1,3 @@
-Getters & Setters
+accessing
 interprete
 	^ interprete 

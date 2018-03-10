@@ -1,5 +1,7 @@
-elementos html
+busqueda
 inputBusqueda: html
-	html textInput
-		tbsFormControl;
-		placeholder: self singular greaseString
+		  
+		html textInput
+			tbsFormControl;
+			callback: [ :texto | self buscarPorTexto: texto ];
+			placeholder: self singular greaseString
