@@ -1,5 +1,5 @@
 rendering
-mostrarPaneles: html
+renderContenido: html
 	self entidadesBuscadas
 		ifNotNil: 
 		[ 
@@ -7,4 +7,4 @@ mostrarPaneles: html
 			ifEmpty: [ self textoSinResultados: html ];
 			ifNotEmpty: [ self mostrarPaneles: (self entidadesBuscadas) en: html ] 
 		];
-		ifNil: [ self mostrarPaneles: (self todasLasEntidades) en: html ]
+		ifNil: [ self mostrarPaneles: (self todasLasInstancias) en: html ]

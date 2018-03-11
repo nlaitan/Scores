@@ -1,3 +1,0 @@
-accessing
-todasLasEntidades
-	^ self subclassResponsibility  

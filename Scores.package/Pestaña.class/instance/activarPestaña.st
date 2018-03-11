@@ -1,3 +1,3 @@
 operations
 activarPestaña
-	^ self subclassResponsibility 
+	self clasePestaña: 'fade in active'.

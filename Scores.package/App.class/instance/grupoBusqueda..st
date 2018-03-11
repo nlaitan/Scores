@@ -1,10 +1,10 @@
-elementos html
+busqueda
 grupoBusqueda: html
 	html tbsInputGroup: 
 	[ 
-		self inputBusqueda: html.
+		self input: 'Obra / Interprete / Autor' Busqueda: html.
 		html tbsInputGroupButton: 
 		[ 
-			self botonBusqueda: html 
+			self boton: 'glyphicon-search' en: html 
 		] 
 	]

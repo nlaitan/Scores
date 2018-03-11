@@ -1,3 +1,3 @@
 accessing
-todasLasEntidades
+todasLasInstancias
 	^ self autores

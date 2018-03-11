@@ -4,8 +4,8 @@ menuTabs: html
 		beTabs;
 		with: 
 		[ 
-			self itemTabHome: html.
-			self itemTabObras: html.
-			self itemTabAutores: html.
-			self itemTabInterpretes: html 
+			self itemTab: 'home' en: html.
+			self itemTab: 'obras' en: html.
+			self itemTab: 'autores' en: html.
+			self itemTab: 'interpretes' en: html.
 		]

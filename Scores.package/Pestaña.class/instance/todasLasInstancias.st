@@ -1,0 +1,3 @@
+accessing
+todasLasInstancias
+	^ self subclassResponsibility 

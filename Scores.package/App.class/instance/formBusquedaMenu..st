@@ -1,4 +1,4 @@
-menu
+busqueda
 formBusquedaMenu: html
 	html tbsForm
 		class: 'navbar-form';

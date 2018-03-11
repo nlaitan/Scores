@@ -1,5 +1,5 @@
 rendering
 renderListaDePaneles: html
-	html tbsRow id: self plural, self singular; 
+	html tbsRow 
 	with:
-		[ self mostrarPaneles: html ]
+		[ self renderContenido: html ]

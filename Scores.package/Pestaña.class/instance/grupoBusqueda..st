@@ -8,7 +8,7 @@ grupoBusqueda: html
 			self inputBusqueda: html.
 			html tbsInputGroupButton: 
 			[ 
-				self botonBusqueda: html 
+				self boton: 'glyphicon-search' en: html 
 			] 
 		]
 	]

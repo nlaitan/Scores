@@ -10,7 +10,10 @@
 		"tabAutores",
 		"tabInterpretes",
 		"tabObras",
-		"tabHome"
+		"tabHome",
+		"obrasBuscadas",
+		"interpretesBuscados",
+		"autoresBuscados"
 	],
 	"name" : "App",
 	"type" : "normal"
