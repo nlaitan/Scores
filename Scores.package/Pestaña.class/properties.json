@@ -8,8 +8,6 @@
 	"instvars" : [
 		"app",
 		"vistaEntidad",
-		"plural",
-		"singular",
 		"entidadesBuscadas",
 		"clasePestaña"
 	],

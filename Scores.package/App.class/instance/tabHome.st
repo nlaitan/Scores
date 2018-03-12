@@ -1,3 +1,3 @@
-accessing - rendering
+pestañas
 tabHome
 	^ tabHome

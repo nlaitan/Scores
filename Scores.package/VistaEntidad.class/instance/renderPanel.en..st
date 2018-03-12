@@ -1,9 +1,9 @@
 rendering
-renderPanel: html
+renderPanel: encabezado en: html
 	html tbsPanel beDefault with: 
 	[ 
 		html tbsPanelBody with:
 		[ 
-			self renderInteriorPanel: html 
+			self renderInteriorPanel: encabezado en: html 
 		] 
 	]

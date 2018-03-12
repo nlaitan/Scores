@@ -1,5 +1,5 @@
 menu
 logoMenu: html
 	html tbsNavbarBrand
-		url: '#';
-		with: 'Scores'
+		url: '/';
+		with: 	'Scores' 

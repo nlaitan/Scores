@@ -1,6 +1,7 @@
 botones
-botonSmall: texto icono: icono en: html
-	html tbsButton beSmall; beDanger;
+boton: tipo texto: texto icono: icono en: html
+	html tbsButton
+		class: tipo;
 		with: 
 			[ 
 				html tbsGlyphIcon class: icono.

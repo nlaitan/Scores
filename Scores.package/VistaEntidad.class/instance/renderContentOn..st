@@ -5,5 +5,5 @@ renderContentOn: html
 		smallSize: 8;
 		mediumSize: 6;
 		with: [ 
-					self renderPanel: html 
+					self renderPanel: [self renderEncabezadoBasico: html] en: html 
 				]

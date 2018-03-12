@@ -1,5 +1,5 @@
 tabla
-columna: html boton: boton
+columna: html contenido: contenido
 	html tableData
 		style: 'border: none; vertical-align: middle;';
-		with: boton
+		with: contenido

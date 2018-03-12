@@ -1,8 +1,5 @@
-busqueda
+pestañas
 activarPestañasSiHayResultado
-	self tabObras entidadesBuscadas
-		ifNotEmpty: [ self tabObras activarPestaña ].
-	self tabAutores entidadesBuscadas
-		ifNotEmpty: [ self tabAutores activarPestaña ].
-	self tabInterpretes entidadesBuscadas
-		ifNotEmpty: [ self tabInterpretes activarPestaña ]
+	self activarNoVacia: self tabObras.
+	self activarNoVacia: self tabAutores.
+	self activarNoVacia: self tabInterpretes.

@@ -4,7 +4,7 @@ renderContenido: html
 		ifNotNil: 
 		[ 
 			self entidadesBuscadas
-			ifEmpty: [ self textoSinResultados: html ];
+			ifEmpty: [ html text: self sinResultados ];
 			ifNotEmpty: [ self mostrarPaneles: (self entidadesBuscadas) en: html ] 
 		];
 		ifNil: [ self mostrarPaneles: (self todasLasInstancias) en: html ]

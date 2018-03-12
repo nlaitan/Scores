@@ -2,10 +2,10 @@ rendering
 renderContentOn: html
 	html tbsTabPane
 		class: self clasePestaña;
-		id: self plural asLowercase;
+		id: self id;
 		with: 
 		[ 
-			self encabezado: html.
+			self encabezado: [ self basicEncabezado: html ] en: html.
 			html break.
 			self renderListaDePaneles: html 
 		]

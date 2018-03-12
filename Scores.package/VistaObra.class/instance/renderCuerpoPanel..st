@@ -4,9 +4,9 @@ renderCuerpoPanel: html
 	[ 
 		html heading level: 4; with: 
 		[
-			self renderTituloAutor: html.
-			html break.
-			self renderInterpretes: html 
-		] 
+			self tituloPanel: (self nombreCompletoAutor) nivel: 5 en: html.
+		].
+		html break.
+		self renderInterpretes: html  
 	]
 	

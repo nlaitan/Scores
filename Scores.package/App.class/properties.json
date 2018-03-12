@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "NicolasLaitan 2/16/2018 12:53",
+	"commentStamp" : "Nico 3/11/2018 21:29",
 	"super" : "WAComponent",
 	"category" : "Scores",
 	"classinstvars" : [ ],
@@ -10,10 +10,7 @@
 		"tabAutores",
 		"tabInterpretes",
 		"tabObras",
-		"tabHome",
-		"obrasBuscadas",
-		"interpretesBuscados",
-		"autoresBuscados"
+		"tabHome"
 	],
 	"name" : "App",
 	"type" : "normal"

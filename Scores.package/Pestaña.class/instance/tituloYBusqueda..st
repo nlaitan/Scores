@@ -6,6 +6,6 @@ tituloYBusqueda: html
 		mediumSize: 6;
 		with: 
 		[ 
-			self titulo: html.
+			self titulo: (self id) en: html.
 			self busqueda: html  
 		]
