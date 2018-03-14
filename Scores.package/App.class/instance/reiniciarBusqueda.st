@@ -1,5 +1,5 @@
-busqueda
+operaciones
 reiniciarBusqueda
 	self buscarTodos: ''.
-	self tabHome desactivarPestañas.
+	self tabHome desactivarTodasLasPestañas.
 	self tabHome activarPestaña.

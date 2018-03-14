@@ -1,4 +1,4 @@
-pestañas
+operaciones
 activarPestañasSiHayResultado
 	self activarNoVacia: self tabObras.
 	self activarNoVacia: self tabAutores.

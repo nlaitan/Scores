@@ -1,6 +1,6 @@
-operations
+operaciones
 textoABuscarDeInterpretes
 	^ (self interpretes collect:[
 			:interprete |
-			interprete nombreCompletoLimpio asLowercase 
+			interprete textoABuscar  
 		]) asString.  

@@ -1,3 +1,3 @@
-accessing
+accesos
 tituloBasico
 	^ self interprete nombreCompleto

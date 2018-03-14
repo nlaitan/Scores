@@ -1,3 +1,3 @@
-Accessing
+accesos
 alias: aText
 	^ alias := aText 

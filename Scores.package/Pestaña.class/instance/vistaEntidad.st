@@ -1,3 +1,3 @@
-accessing
+accesos
 vistaEntidad
 	^ vistaEntidad 

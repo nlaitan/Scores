@@ -1,3 +1,3 @@
-accessing
+accesos
 todasLasInstancias
 	^ self interpretes

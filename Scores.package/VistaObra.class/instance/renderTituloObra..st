@@ -1,4 +1,4 @@
-rendering
+rendering - panel
 renderTituloObra: html
 	html strong: self obra nombreFormal.
 	html space: 5.

@@ -1,7 +1,7 @@
-tabla
+rendering - tabla
 renderTabla: html
 	html tbsTable
 		beStriped;
 		with: [ 
-					self renderFilas: html 
+					self renderFilas: (self subInstancias) en: html 
 				]

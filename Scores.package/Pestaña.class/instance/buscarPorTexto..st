@@ -1,8 +1,8 @@
-busqueda
+operaciones
 buscarPorTexto: texto
 	| textoMatcheado busquedaLocal |
 	textoMatcheado := '.*' , texto , '.*'.
-	busquedaLocal := self todasLasInstancias select: [ :entidad | entidad textoABuscar matchesRegex: textoMatcheado ].
+	busquedaLocal :=  self baseDeDatos buscarPorTexto: textoMatcheado en: (self todasLasInstancias).
 	self entidadesBuscadas: busquedaLocal.
-	self desactivarPestañas.
+	self desactivarTodasLasPestañas.
 	self activarPestaña

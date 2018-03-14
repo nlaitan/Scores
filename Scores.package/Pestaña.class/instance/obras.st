@@ -1,3 +1,3 @@
-accessing
+accesos
 obras
 	^ self app baseDeDatos obras.

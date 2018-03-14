@@ -1,3 +1,3 @@
-operations
+operaciones
 nombreCompletoAutor
 	^ self autor nombreCompletoLimpio

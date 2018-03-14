@@ -1,0 +1,3 @@
+accesos
+subInstancias
+	^ self subclassResponsibility 

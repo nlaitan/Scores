@@ -1,3 +1,3 @@
-Accessing
+accesos
 nombreFormal
 	^ nombreFormal 

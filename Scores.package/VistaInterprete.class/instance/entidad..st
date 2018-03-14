@@ -1,3 +1,3 @@
-accessing
+accesos
 entidad: unInterprete
 	interprete := unInterprete 

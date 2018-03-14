@@ -1,3 +1,3 @@
-Collections
+colecciones
 obras: collection
 	obras := collection 

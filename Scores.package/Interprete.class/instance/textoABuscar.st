@@ -1,3 +1,3 @@
-Operations
+operaciones
 textoABuscar
 	^ self nombreCompletoLimpio asLowercase 

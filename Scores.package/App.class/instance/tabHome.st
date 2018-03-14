@@ -1,3 +1,3 @@
-pestañas
+accesos - pestañas
 tabHome
 	^ tabHome

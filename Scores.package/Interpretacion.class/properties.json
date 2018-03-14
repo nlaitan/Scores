@@ -1,12 +1,11 @@
 {
-	"commentStamp" : "NicolasLaitan 2/22/2018 18:20",
+	"commentStamp" : "NicolasLaitan 3/13/2018 23:20",
 	"super" : "Object",
 	"category" : "Scores",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"video",
 		"obra"
 	],
 	"name" : "Interpretacion",

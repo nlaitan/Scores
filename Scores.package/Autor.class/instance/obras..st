@@ -1,3 +1,3 @@
-accessing
+accesos
 obras: coleccion
 	obras := coleccion

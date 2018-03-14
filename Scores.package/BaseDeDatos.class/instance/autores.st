@@ -1,3 +1,3 @@
-Collections
+colecciones
 autores
 	^ autores

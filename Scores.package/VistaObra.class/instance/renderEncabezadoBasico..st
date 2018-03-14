@@ -1,4 +1,4 @@
-rendering
+rendering - panel
 renderEncabezadoBasico: html
 	self renderTituloObra: html.
-	self botonPDF: 'pull-right' en: html
+	self renderBotonPDF: 'pull-right' en: html

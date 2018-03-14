@@ -1,3 +1,3 @@
-Accessing
+accesos
 autor: unAutor
 	^ autor := unAutor 

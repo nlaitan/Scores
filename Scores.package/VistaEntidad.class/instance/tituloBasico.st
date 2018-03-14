@@ -1,0 +1,3 @@
+accesos
+tituloBasico
+	^ self subclassResponsibility 

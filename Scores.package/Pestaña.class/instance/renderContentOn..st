@@ -5,7 +5,7 @@ renderContentOn: html
 		id: self id;
 		with: 
 		[ 
-			self encabezado: [ self basicEncabezado: html ] en: html.
+			self renderFilaEncabezado: [ self renderColumnaEncabezado: html ] en: html.
 			html break.
-			self renderListaDePaneles: html 
+			html tbsRow 	with: 	[ self renderColeccionDeEntidades: html ] 
 		]

@@ -1,3 +1,3 @@
-Accessing
+accesos
 nombreFormal: aText
 	^ nombreFormal := aText

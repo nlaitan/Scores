@@ -1,4 +1,4 @@
-rendering
+rendering - panel
 renderPanel: encabezado en: html
 	html tbsPanel beDefault with: 
 	[ 

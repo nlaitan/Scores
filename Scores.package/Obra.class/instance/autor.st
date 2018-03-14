@@ -1,4 +1,4 @@
-Accessing
+accesos
 autor
 	^ autor
 	
